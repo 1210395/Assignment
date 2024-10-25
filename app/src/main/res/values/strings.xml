@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="nameCol">Name</string>
+    <string name="ageCol">Age</string>
+    <string name="idCol">ID</string>
+    <string name="markCol">Mark</string>
+    <string name="enter_text_hint">Enter text</string>
+    <string name="search_button">Search</string>
+    <string name="add_student">Add Student</string>
+    <string name="name">Name :</string>
+    <string name="age">Age :</string>
+    <string name="id">ID :</string>
+    <string name="mark">Mark :</string>
+    <string name="back">Back</string>
+    <string name="confrim">Confrim</string>
+</resources>

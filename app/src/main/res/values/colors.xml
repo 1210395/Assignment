@@ -1,0 +1,26 @@
+<resources>
+    <!-- Primary Colors -->
+    <color name="primaryColor">#00C1FF</color>       <!-- Electric Blue -->
+    <color name="primaryLightColor">#66E0FF</color>  <!-- Light Electric Blue -->
+    <color name="primaryDarkColor">#007399</color>   <!-- Dark Electric Blue -->
+
+    <!-- Secondary Colors -->
+    <color name="secondaryColor">#39FF14</color>      <!-- Neon Green -->
+    <color name="secondaryLightColor">#B2FFA3</color> <!-- Soft Neon Green -->
+    <color name="secondaryDarkColor">#207A2E</color>  <!-- Dark Green -->
+
+    <!-- Accent Colors -->
+    <color name="accentColor">#FFEA00</color>         <!-- Bright Yellow -->
+    <color name="accentLightColor">#FFF6A1</color>    <!-- Light Yellow -->
+    <color name="accentDarkColor">#CCB800</color>     <!-- Dark Yellow -->
+
+    <!-- Neutral / Background Colors -->
+    <color name="backgroundColor">#121212</color>     <!-- Deep Black-Gray Background -->
+    <color name="surfaceColor">#1E1E1E</color>        <!-- Slightly Lighter Background Surface -->
+    <color name="textColorPrimary">#FFFFFF</color>    <!-- White for Primary Text -->
+    <color name="textColorSecondary">#A5A5A5</color>  <!-- Light Gray for Secondary Text -->
+    <color name="dividerColor">#404040</color>        <!-- Medium Gray for Dividers -->
+
+    <!-- Error Color -->
+    <color name="errorColor">#FF3B30</color>          <!-- Bright Red for Errors -->
+</resources>
